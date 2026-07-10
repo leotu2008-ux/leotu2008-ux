@@ -14,17 +14,6 @@
 
 <br>
 
-## 🏮 About me
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: the banner above is **not a video** — it's procedurally generated pixel art
-
-<br>
-
 ## 📊 Stats
 
 <div align="center">
