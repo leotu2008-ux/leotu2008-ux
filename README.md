@@ -21,24 +21,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=leotu2008-ux&show_icons=true&hide_border=true&bg_color=0d0b0e&title_color=ee3a3a&text_color=9c99a0&icon_color=c6202a&ring_color=ee3a3a" alt="GitHub stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotu2008-ux&layout=compact&hide_border=true&bg_color=0d0b0e&title_color=ee3a3a&text_color=9c99a0" alt="Top languages" height="165" />
 
-</div>
-
-<br>
-
-## 🎨 About the banner
-
-The looping animation at the top is drawn entirely in code — no image files, no AI upscaling, just
-[**~300 lines of Python**](art/generate_hero.py) placing pixels on a 220 × 124 grid:
-
-| | |
-|---|---|
-| 🏮 **Neon signs** | pseudo-kanji glyphs generated from random strokes, breathing and sputtering on a loop |
-| 🌸 **Red petals** | fall at 1–2 px/frame through a 72 px band, so they wrap seamlessly |
-| 🚶 **The figure** | a 12-pixel-tall silhouette with a 2-phase walk cycle and a swinging coat |
-| 🐈 **The cat** | is watching |
-
-Every periodic motion completes an integer number of cycles across the 36 frames,
-so the GIF loops forever without a seam. Regenerate it with:
 
 ```bash
 python3 art/generate_hero.py
