@@ -4,7 +4,6 @@
 
 # 赤 · Hi there, I'm **leotu2008-ux** · 黒
 
-*somewhere between the last step and the light at the top*
 
 <img src="https://img.shields.io/badge/status-climbing-c6202a?style=for-the-badge&labelColor=0d0b0e" alt="status: climbing" />
 <img src="https://img.shields.io/badge/mode-pixel-ee3a3a?style=for-the-badge&labelColor=0d0b0e" alt="mode: pixel" />
