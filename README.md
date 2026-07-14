@@ -39,8 +39,9 @@
 ## 🎨 About the banner
 
 The looping animation at the top is drawn entirely in code — no image files, no AI upscaling, just
-[**~350 lines of Python**](art/generate_hero.py) placing pixels on a 320 × 180 grid, upscaled 4×
-so it keeps its detail but still reads as pixels. The animation is deliberately subtle:
+[**~400 lines of Python**](art/generate_hero.py) placing pixels on a 400 × 225 grid, upscaled 3×
+so it keeps its detail but still reads as pixels. The whole room is built in perspective — angled
+desk, turned monitor, receding shelves — and the animation is deliberately subtle:
 
 | | |
 |---|---|
