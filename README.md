@@ -10,17 +10,6 @@
 
 </div>
 
-<br>
-
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=leotu2008-ux&show_icons=true&hide_border=true&bg_color=0e1814&title_color=7ee8d4&text_color=9ab4a8&icon_color=52b89c&ring_color=7ee8d4" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotu2008-ux&layout=compact&hide_border=true&bg_color=0e1814&title_color=7ee8d4&text_color=9ab4a8" alt="Top languages" height="165" />
-
-</div>
-
 ```bash
 python3 art/generate_hero.py
 ```
