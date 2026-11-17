@@ -15,7 +15,7 @@ Babson College · Concentration in Tech Entrepreneurship · Vancouver ✈️ Bos
 | Project | What it is |
 | --- | --- |
 | [**Hosty**](https://tryhosty.app) | AI event-planning agent. Plan the event; Hosty finds the venues. |
-| [**Marketfy**](https://github.com/leotu2008-ux/Marketfy) | Point it at any website and get back a brand guide and matching business cards as a PDF. Reached 3,000+ users in a month. |
+| [**Marketfy**](https://github.com/leotu2008-ux/Marketfy) | Point it at any website and get back a brand guide and matching business cards as a PDF. Reached 3,000+ users in a month. [Try it →](https://marketfy-psi.vercel.app) |
 | [**Lantern 00**](https://github.com/leotu2008-ux/Lantern) | Website for Lantern 00, a student-run angel fund. |
 
 More: [Syncal](https://github.com/leotu2008-ux/Syncal) (two Google Calendars in one view) · [Application Tracker](https://github.com/leotu2008-ux/application-tracker) · [Desktop Pets](https://github.com/leotu2008-ux/Desktop_Pets) · [DCF Learning](https://github.com/leotu2008-ux/DCF-Learning)
