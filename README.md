@@ -8,7 +8,7 @@ Babson College · Concentration in Tech Entrepreneurship · Vancouver ✈️ Bos
 
 - 🎉 **Hosty**: founder & developer. An agent for the whole event: brief it once and it drafts the plan, writes to the venues, chases the quotes, tracks who's coming, and hands you a run sheet for the day. [tryhosty.app](https://tryhosty.app)
 - 🧠 **Lantern Labs**: founder. Expanding student research capabilities across T20 campuses.
-- 🏮 **Lantern 00**: General Partner of a six-figure angel fund backing founders across 20+ campuses in North America and Asia.
+- 🏮 **Lantern 00**: Managing Partner & Operations. Runs a six-figure angel fund backing founders across 20+ campuses in North America and Asia.
 
 ### Featured projects
 
